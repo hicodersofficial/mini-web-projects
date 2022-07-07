@@ -20,7 +20,7 @@ body {
   width: 100%;
   transform: scale(0);
   transform-origin: 0 0;
-  animation: progress 15s cubic-bezier(0.01, 1.06, 0.71, 1) forwards;
+  animation: progress 40s cubic-bezier(0.01, 1.06, 0.71, 1) forwards;
   transition: all 0.3s;
 }
 
