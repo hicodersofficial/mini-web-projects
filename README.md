@@ -1,5 +1,9 @@
 # Web Mini Project
 
+A collection of fun and mini web projects.
+
+**Connect with me on** [Instagram](https://instagram.com/hi.coders) for feedback or suggestions, or open an issue in the repo. 😍
+
 | S. No | Name                         | See Live                   |
 | ----- | ---------------------------- | -------------------------- |
 | 01.   | [Figma Loader][figma-loader] | [See Live][figma-loader-l] |
@@ -9,6 +13,6 @@
 
 # Preview
 
-Coming Soon...
+![](figma-loader/preview.png)
 
 # **Thank You!** ❣️
