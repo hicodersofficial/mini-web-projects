@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  background: #0c0d10;
+}
+.reaction {
+  cursor: pointer;
+  font-size: 24px;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.like,
+.unlike {
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.like {
+  color: #f81348;
+  animation: like 0.3s ease-in forwards;
+  background: #f813482b;
+}
+.unlike {
+  animation: unlike 0.17s ease-in reverse forwards;
+  border-radius: 50%;
+  background: #43434338;
+}
+@keyframes like {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes unlike {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
