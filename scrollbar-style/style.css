@@ -12,8 +12,6 @@
 
 ::-webkit-scrollbar-track {
   background: #474747;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
 }
 
 /* Thin Scroll Bar */
@@ -30,8 +28,6 @@
 
 ::-webkit-scrollbar-track {
   background: #303030;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
 } */
 
 body {
