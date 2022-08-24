@@ -10,7 +10,7 @@ p::selection {
 body {
   background: #080b10;
   color: #ffff;
-  font-family: "Alliance No.1";
+  font-family: "Poppins", sans-serif;
   max-width: 500px;
   margin: 0 auto;
   height: 100vh;
