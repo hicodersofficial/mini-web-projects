@@ -1,0 +1,27 @@
+::selection {
+  background: #8222ff;
+}
+
+p::selection {
+  background: #ff9514;
+  color: #000;
+}
+
+body {
+  background: #080b10;
+  color: #ffff;
+  font-family: "Alliance No.1";
+  max-width: 500px;
+  margin: 0 auto;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
+
+p {
+  font-size: 1.1rem;
+}
+h1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
