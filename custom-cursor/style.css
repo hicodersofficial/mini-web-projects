@@ -1,25 +1,80 @@
+/*==================
+  CSS Preset
+===================*/
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   height: 100vh;
-  display: grid;
-  place-content: center;
-  cursor: url(orange.png), auto !important;
-  background: #1c1c22;
+  display: flex;
+  background: #0e0e11;
+  color: #fff;
   font-family: sans-serif;
 }
-button {
-  cursor: url(orange-hover.png), pointer !important;
+
+/*=====================
+  Button/Cursor CSS 
+=======================*/
+section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+section.coffee {
+  cursor: url(cursor/cookie.png), auto !important;
+  border-right: 1px dotted #212127;
+}
+
+section.juice {
+  cursor: url(cursor/orange.png), auto !important;
+}
+
+.btn {
   padding: 1rem 5rem;
   font-size: 1.5rem;
   border: none;
-  background: linear-gradient(15deg, #ff5817, #ff9f28);
   border-radius: 10px;
   font-weight: 600;
   color: #fff;
-  box-shadow: 0 0 0px 10px #ff581721;
   transition: all 0.2s ease;
 }
-button:hover {
-  box-shadow: 0 0 10px 12px #ff581721;
+
+.btn:hover {
   transform: scale(1.03);
+}
+
+.coffee-btn {
+  cursor: url(cursor/coffee.png), pointer !important;
+  background: linear-gradient(15deg, #422215, #5a3507);
+  box-shadow: 0 0 0px 10px #422215a8;
+}
+.coffee-btn:hover {
+  box-shadow: 0 0 10px 12px #422215a8;
+}
+
+.juice-btn {
+  cursor: url(cursor/orange-hover.png), pointer !important;
+  background: linear-gradient(15deg, #ff5817, #ff9f28);
+  box-shadow: 0 0 0px 10px #ff581721;
+}
+.juice-btn:hover {
+  box-shadow: 0 0 10px 12px #ff581721;
+}
+
+/*=====================
+  Media Query
+=======================*/
+@media (max-width: 850px) {
+  body {
+    flex-direction: column;
+  }
+
+  section.coffee {
+    border-bottom: 1px dotted #212127;
+  }
 }
