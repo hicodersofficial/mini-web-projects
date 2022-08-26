@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  cursor: url(orange.png), auto !important;
+  background: #1c1c22;
+  font-family: sans-serif;
+}
+button {
+  cursor: url(orange-hover.png), pointer !important;
+  padding: 1rem 5rem;
+  font-size: 1.5rem;
+  border: none;
+  background: linear-gradient(15deg, #ff5817, #ff9f28);
+  border-radius: 10px;
+  font-weight: 600;
+  color: #fff;
+  box-shadow: 0 0 0px 10px #ff581721;
+  transition: all 0.2s ease;
+}
+button:hover {
+  box-shadow: 0 0 10px 12px #ff581721;
+  transform: scale(1.03);
+}
