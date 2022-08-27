@@ -11,6 +11,7 @@ A collection of fun and mini web projects.
 | 03.   | [Simple Like Animation][simple-like] | [See Live][simple-like-l]  |
 | 04.   | [Stylized Scrollbar][style-scroll]   | [See Live][style-scroll-l] |
 | 05.   | [Styling Selection][selection]       | [See Live][selection-l]    |
+| 06.   | [Custom Cursor][cursor]              | [See Live][cursor-l]       |
 
 [figma-loader]: https://github.com/hicodersofficial/mini-web-projects/tree/main/figma-loader
 [figma-loader-l]: https://codepen.io/hicoders/pen/ExEPqyb
@@ -22,6 +23,8 @@ A collection of fun and mini web projects.
 [style-scroll-l]: https://codepen.io/hicoders/pen/LYdgOrj
 [selection]: https://github.com/hicodersofficial/mini-web-projects/tree/main/selection-style
 [selection-l]: https://codepen.io/hicoders/pen/KKoYBbX
+[cursor]: https://github.com/hicodersofficial/mini-web-projects/tree/main/custom-cursor
+[cursor-l]: https://codepen.io/hicoders/pen/YzaoGEP
 
 # Preview
 
