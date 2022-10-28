@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: "Space Grotesk", sans-serif;
+  background: #1c1e26;
+  color: #fff;
+  display: grid;
+  place-content: center;
+  overflow: hidden;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.cursor {
+  width: 10rem;
+  height: 10rem;
+  background: #ffffff;
+  border-radius: 50%;
+  position: absolute;
+  mix-blend-mode: difference;
+}
