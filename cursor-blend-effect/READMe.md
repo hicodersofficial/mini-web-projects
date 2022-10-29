@@ -1,6 +1,6 @@
 # **Cursor blend effect**
 
-<!-- ## [See live]() -->
+## [See live](https://codepen.io/hicoders/pen/MWXagRL)
 
 ## Preview
 
