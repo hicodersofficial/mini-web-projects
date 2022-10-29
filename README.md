@@ -12,7 +12,7 @@ A collection of fun and mini web projects.
 | 04.   | [Stylized Scrollbar][style-scroll]   | [Preview][style-scroll-l] |
 | 05.   | [Styling Selection][selection]       | [Preview][selection-l]    |
 | 06.   | [Custom Cursor][cursor]              | [Preview][cursor-l]       |
-| 07.   | [Blend Cursor][blendcur]             | [Preview] [blendcur-l]    |
+| 07.   | [Blend Cursor][blendcur]             | [Preview][blendcur-l]     |
 
 [figma-loader]: https://github.com/hicodersofficial/mini-web-projects/tree/main/figma-loader
 [figma-loader-l]: https://codepen.io/hicoders/pen/ExEPqyb
