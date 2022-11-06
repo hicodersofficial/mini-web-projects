@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+
+section {
+  height: 100vh;
+}
+
+.progress-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10px;
+}
+
+.article-progress {
+  background: rgb(68, 0, 255);
+  width: 100%;
+  height: 100%;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.1s ease;
+}
+
+.sec-1 {
+  background: rgb(206, 231, 255);
+}
+.sec-2 {
+  background: rgb(255, 217, 229);
+}
+.sec-3 {
+  background: rgb(255, 233, 209);
+}
+.sec-4 {
+  background: rgb(230, 255, 218);
+}
