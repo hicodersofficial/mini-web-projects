@@ -8,15 +8,13 @@ section {
 
 .progress-container {
   position: fixed;
-  top: 0;
-  left: 0;
+  inset: 0;
   width: 100%;
   height: 10px;
 }
 
 .article-progress {
-  background: rgb(68, 0, 255);
-  width: 100%;
+  background: #4400ff;
   height: 100%;
   transform: scaleX(0);
   transform-origin: left;
@@ -24,14 +22,14 @@ section {
 }
 
 .sec-1 {
-  background: rgb(206, 231, 255);
+  background: #cee7ff;
 }
 .sec-2 {
-  background: rgb(255, 217, 229);
+  background: #ffd9e5;
 }
 .sec-3 {
-  background: rgb(255, 233, 209);
+  background: #ffe9d1;
 }
 .sec-4 {
-  background: rgb(230, 255, 218);
+  background: #e6ffda;
 }
