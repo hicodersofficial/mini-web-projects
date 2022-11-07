@@ -13,6 +13,7 @@ A collection of fun and mini web projects.
 | 05.   | [Styling Selection][selection]       | [Preview][selection-l]    |
 | 06.   | [Custom Cursor][cursor]              | [Preview][cursor-l]       |
 | 07.   | [Blend Cursor][blendcur]             | [Preview][blendcur-l]     |
+| 08.   | [Article Progressbar][article-p]     | [Preview][article-p-l]    |
 
 [figma-loader]: https://github.com/hicodersofficial/mini-web-projects/tree/main/figma-loader
 [figma-loader-l]: https://codepen.io/hicoders/pen/ExEPqyb
@@ -28,6 +29,8 @@ A collection of fun and mini web projects.
 [cursor-l]: https://codepen.io/hicoders/pen/YzaoGEP
 [blendcur]: https://github.com/hicodersofficial/mini-web-projects/tree/main/cursor-blend-effect
 [blendcur-l]: https://codepen.io/hicoders/pen/MWXagRL
+[article-p]: https://github.com/hicodersofficial/mini-web-projects/tree/main/article-progressbar
+[article-p-l]: https://codepen.io/hicoders/pen/qBKagPP
 
 # Preview
 
