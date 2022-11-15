@@ -14,6 +14,7 @@ A collection of fun and mini web projects.
 | 06.   | [Custom Cursor][cursor]              | [Preview][cursor-l]       |
 | 07.   | [Blend Cursor][blendcur]             | [Preview][blendcur-l]     |
 | 08.   | [Article Progressbar][article-p]     | [Preview][article-p-l]    |
+| 09.   | [Movie Card][movie-card]             | [Preview][movie-card-l]   |
 
 [figma-loader]: https://github.com/hicodersofficial/mini-web-projects/tree/main/figma-loader
 [figma-loader-l]: https://codepen.io/hicoders/pen/ExEPqyb
@@ -31,6 +32,8 @@ A collection of fun and mini web projects.
 [blendcur-l]: https://codepen.io/hicoders/pen/MWXagRL
 [article-p]: https://github.com/hicodersofficial/mini-web-projects/tree/main/article-progressbar
 [article-p-l]: https://codepen.io/hicoders/pen/qBKagPP
+[movie-card]: https://github.com/hicodersofficial/mini-web-projects/tree/main/movie-card
+[movie-card-l]: https://codepen.io/hicoders/pen/abKyWEP
 
 # Preview
 
